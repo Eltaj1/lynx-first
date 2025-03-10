@@ -7,7 +7,7 @@ This is a ReactLynx project bootstrapped with `create-rspeedy`.
 First, install the dependencies:
 
 ```bash
-bun install
+bun i
 ```
 
 Then, run the development server:
